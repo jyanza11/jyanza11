@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Juan Yanza
 
 <div align="center">
-  <img src="https://github.com/jyanza11.png" alt="Juan Yanza" width="200" style="border-radius: 50%; border: 4px solid #00ffb0; box-shadow: 0 8px 32px rgba(0,255,176,0.3);"/>
   
   <h3>🚀 Computer Science Engineer | Frontend Specialist | Full-Stack Developer</h3>
   
