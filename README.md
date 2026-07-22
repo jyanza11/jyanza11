@@ -17,9 +17,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/juanyanza.dev-0a0a0a?style=flat-square&logo=vercel&logoColor=15f5ba)](https://juanyanza.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=15f5ba)](https://www.linkedin.com/in/juan-yanza)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=15f5ba)](mailto:jjyanza1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/juanyanza.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=15f5ba)](https://juanyanza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=15f5ba)](https://www.linkedin.com/in/juan-yanza)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=15f5ba)](mailto:jjyanza1@gmail.com)
 
 </div>
 
@@ -38,8 +38,8 @@ performance  → SSR / SSG / ISR, Web Vitals, Lighthouse
 quality      → a11y (WCAG), testing, clean architecture
 
 # also comfortable with
-backend      → NestJS, Express, Node.js, Go, Spring Boot
-data         → PostgreSQL, Prisma, MongoDB
+backend      → NestJS, Express, Node.js, .NET, Go, Spring Boot
+data         → PostgreSQL, MySQL, Prisma, MongoDB
 auth         → JWT, NextAuth, Keycloak
 ops          → Docker, GitHub Actions, Vercel
 ```
@@ -50,18 +50,17 @@ ops          → Docker, GitHub Actions, Vercel
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6)
-![Astro](https://img.shields.io/badge/Astro-0a0a0a?style=flat-square&logo=astro&logoColor=FF5D01)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-0a0a0a?style=flat-square&logo=nestjs&logoColor=E0234E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,astro,tailwind,html,css&perline=8" alt="Frontend stack" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet,go,java,spring,cs&perline=8" alt="Backend stack" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,git,github,vercel&perline=8" alt="Data and ops stack" />
+</a>
 
 </div>
 
@@ -69,21 +68,23 @@ ops          → Docker, GitHub Actions, Vercel
 
 ### activity
 
+<!-- ghstats.dev — menos rate-limit / SVG estable vs github-readme-stats oficial -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jyanza11&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=15f5ba&icon_color=15f5ba&text_color=c9c9c9&ring_color=15f5ba" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyanza11&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=15f5ba&text_color=c9c9c9" alt="Top languages" />
+  <img width="420" src="https://ghstats.dev/api/card?username=jyanza11&bg=0a0a0a&title_color=15f5ba&text=c9c9c9&icon_color=15f5ba&hide_border=true&show_icons=true&border_radius=8" alt="GitHub stats" />
+  &nbsp;
+  <img width="320" src="https://ghstats.dev/api/langs?username=jyanza11&bg=0a0a0a&title_color=15f5ba&text=c9c9c9&hide_border=true&layout=compact&border_radius=8" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=jyanza11&theme=dark&hide_border=true&background=0a0a0a&ring=15f5ba&fire=15f5ba&currStreakLabel=15f5ba&sideLabels=c9c9c9&dates=888888&stroke=15f5ba&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+  <img width="740" src="https://streak-stats.demolab.com?user=jyanza11&theme=dark&hide_border=true&background=0a0a0a&ring=15f5ba&fire=15f5ba&currStreakLabel=15f5ba&sideLabels=c9c9c9&dates=888888&stroke=15f5ba&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jyanza11&bg_color=0a0a0a&color=15f5ba&line=15f5ba&point=ffffff&area=true&area_color=15f5ba&hide_border=true&custom_title=contribution%20graph" alt="Contribution graph" />
+  <img width="740" src="https://github-readme-activity-graph.vercel.app/graph?username=jyanza11&bg_color=0a0a0a&color=15f5ba&line=15f5ba&point=ffffff&area=true&area_color=15f5ba&hide_border=true&custom_title=contribution%20graph" alt="Contribution graph" />
 </div>
 
 ---
